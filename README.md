@@ -1,9 +1,10 @@
 # QAM Simulator 1.0
-> QAM 2.0 is a Python-based tool for visualizing Quadrature Amplitude Modulation (QAM) constellation diagrams with advanced features like noise addition, SNR and BNR calculations, and symbol phase analysis. It generates visualizations and data tables for various QAM sizes, making it ideal for telecommunications research, education, and signal analysis.
+> QAM Simulator 1.0 is a Python-based tool for visualizing Quadrature Amplitude Modulation (QAM) constellation diagrams with advanced features like noise addition, SNR and BNR calculations, and symbol phase analysis. It generates visualizations and data tables for various QAM sizes, making it ideal for telecommunications research, education, and signal analysis.
 
 
-![](preview.png)
-
+![](32-QAM (No Noise).png)
+![](32-QAM (Amplitude Noise).png)
+![](32-QAM (Phase Noise).png)
 
 ## Features
 
