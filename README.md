@@ -27,3 +27,4 @@ Future Enhancements:
     - Integrate BER (Bit Error Rate) calculations.
     - Extend noise models to include non-Gaussian noise types.
     - GUI development with PyQt and PySide for improved interaction.
+
