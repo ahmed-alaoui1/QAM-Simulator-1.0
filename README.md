@@ -3,8 +3,6 @@
 
 
 ![](32-QAM(NoNoise).png)
-![](32-QAM(AmplitudeNoise).png)
-![](32-QAM(PhaseNoise).png)
 
 ## Features
 
