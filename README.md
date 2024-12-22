@@ -1,42 +1,27 @@
-# Product Name
-> Short blurb about what your product does.
+# QAM Simulator 1.0
+> QAM 2.0 is a Python-based tool for visualizing Quadrature Amplitude Modulation (QAM) constellation diagrams with advanced features like noise addition, SNR and BNR calculations, and symbol phase analysis. It generates visualizations and data tables for various QAM sizes, making it ideal for telecommunications research, education, and signal analysis.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
-## Installation
 
-OS X & Linux:
+## Features
 
-```sh
-npm install my-crazy-module --save
-```
+- Flexible QAM Size Support: Generate constellations for QAM sizes ranging from 4 to 4096.
+- Noise Simulation: Add amplitude or phase noise with customizable intensity.
+- Performance Metrics: Calculate and evaluate Signal-to-Noise Ratio (SNR) and Bit-to-Noise Ratio (BNR).
+- Visual & Tabular Outputs:
+   + Constellation diagrams annotated with symbol indices and optional noise/exclusion points.
+   + Symbol energy and phase data exported as organized tables.
+- Automated Export: Save results as PDF files directly to your desktop for easy access.
 
-Windows:
+## Technologies Used
 
-```sh
-edit autoexec.bat
-```
+- NumPy: Efficient numerical operations.
+- Matplotlib: High-quality data visualization.
+- OS Module: Desktop file handling.
 
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+  
 
 ## Release History
 
